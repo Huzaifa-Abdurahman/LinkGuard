@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1748441606794,
+    "originalName": "background.js",
+    "fileName": "background-1748441606794.js",
+    "size": 9897,
+    "uploadDate": "2025-05-28T14:13:26.826Z",
+    "mimeType": "text/javascript"
+  },
+  {
+    "id": 1748441615114,
+    "originalName": "content.js",
+    "fileName": "content-1748441615114.js",
+    "size": 8404,
+    "uploadDate": "2025-05-28T14:13:35.118Z",
+    "mimeType": "text/javascript"
+  },
+  {
+    "id": 1748441622743,
+    "originalName": "manifest.json",
+    "fileName": "manifest-1748441622743.json",
+    "size": 653,
+    "uploadDate": "2025-05-28T14:13:42.747Z",
+    "mimeType": "application/json"
+  },
+  {
+    "id": 1748441629435,
+    "originalName": "popup.html",
+    "fileName": "popup-1748441629435.html",
+    "size": 11517,
+    "uploadDate": "2025-05-28T14:13:49.438Z",
+    "mimeType": "text/html"
+  }
+]
